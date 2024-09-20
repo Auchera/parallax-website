@@ -1,11 +1,23 @@
-Parallax Scrolling Website for Clarusway Programs
-This repository contains a parallax scrolling website showcasing Clarusway's educational programs. The site uses HTML for structure, CSS for styling, and leverages background images for a dynamic scrolling experience.
+Clarusway Programs Parallax Scrolling Website
 
+This repository contains a parallax scrolling website designed to showcase Clarusway's diverse educational programs. The website leverages a parallax effect for an engaging and dynamic user experience.
 Project Overview
-Purpose: To highlight various tech programs offered by Clarusway, including Full Stack Development, AWS Solutions, and more, using an engaging parallax design.
-Technologies Used: HTML5, CSS3 with custom styling for a unique visual effect.
+
+Purpose:
+This website aims to highlight the various tech programs offered by Clarusway, such as Full Stack Development and AWS Solutions. By using a parallax design, the goal is to create a visually appealing and immersive experience that attracts potential students.
+
+Technologies Used:
+
+    HTML5: For the structural layout of the website.
+    CSS3: For custom styling and implementing the parallax scrolling effect.
 
 Features
-Parallax Effect: Each section features a background image that moves at a different speed than the foreground content for depth perception.
-Responsive Design: Adjusts content layout based on screen size, though some mobile optimizations might be needed.
-Content Rich: Detailed information about each program, aimed at attracting potential students.
+
+    Parallax Effect:
+    Background images move at different speeds relative to the foreground content, creating a sense of depth and engagement for users as they scroll.
+
+    Responsive Design:
+    The site adapts to various screen sizes, though additional mobile optimizations may be necessary for the best experience.
+
+    Content-Rich Sections:
+    Each program is presented with detailed information, focusing on educating and attracting potential students.
